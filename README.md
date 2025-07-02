@@ -72,8 +72,8 @@ This project demonstrates a **motion-activated lighting system** that:
 
 ## 💾 Code Files
 
-- [`Smart_Motion_Lighting.ino`] – Arduino firmware.
-- [`Smart_Motion_Lighting_Analysis.m`] – MATLAB visualization script.
+- [`Smart_Motion_Lighting.ino`](https://github.com/your_repo/Smart_Motion_Lighting.ino) – Arduino firmware.
+- [`Smart_Motion_Lighting_Analysis.m`](https://github.com/your_repo/Smart_Motion_Lighting_Analysis.m) – MATLAB visualization script.
 
 ---
 
