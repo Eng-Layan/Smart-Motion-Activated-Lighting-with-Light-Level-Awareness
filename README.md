@@ -44,7 +44,7 @@ This project demonstrates a **motion-activated lighting system** that:
 
 ## 🖼️ Project Images
 
-- !![IMG_2922](https://github.com/user-attachments/assets/64017b24-90e0-47fe-a8dc-1aef164ec114)
+- ![IMG_2922](https://github.com/user-attachments/assets/64017b24-90e0-47fe-a8dc-1aef164ec114)
 - ![IMG_2923](https://github.com/user-attachments/assets/bfe035b0-71bb-47ca-ad79-042f07a8d55f)
 - ![لقطة شاشة 2025-07-02 160410](https://github.com/user-attachments/assets/42c1d012-1f57-4893-a329-bc4e46738d0a)
 
